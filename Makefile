@@ -1,0 +1,3 @@
+vhd:
+	packer build ./vm/
+	
